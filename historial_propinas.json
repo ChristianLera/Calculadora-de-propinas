@@ -1,0 +1,35 @@
+[
+  {
+    "fecha": "2026-04-09T18:57:41.634789",
+    "monto_original": 360.0,
+    "moneda": "USD",
+    "porcentaje_propina": 2.0,
+    "calidad_servicio": "Personalizado (2.0%)",
+    "propina": 7.2,
+    "total": 367.2,
+    "num_personas": 30,
+    "total_por_persona": 12.24
+  },
+  {
+    "fecha": "2026-04-09T18:58:51.250607",
+    "monto_original": 360.0,
+    "moneda": "USD",
+    "porcentaje_propina": 20,
+    "calidad_servicio": "Excelente (20%) - Servicio sobresaliente",
+    "propina": 72.0,
+    "total": 432.0,
+    "num_personas": 25,
+    "total_por_persona": 17.28
+  },
+  {
+    "fecha": "2026-04-09T18:59:43.020814",
+    "monto_original": 560.0,
+    "moneda": "EUR",
+    "porcentaje_propina": 25,
+    "calidad_servicio": "Extraordinario (25%) - Servio excepcional",
+    "propina": 140.0,
+    "total": 700.0,
+    "num_personas": 15,
+    "total_por_persona": 46.67
+  }
+]
